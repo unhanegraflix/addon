@@ -27,4 +27,10 @@
 <externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/portugal/Portugal.m3u</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SPANISH[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/portugal/spa.m3u</externallink>
+</channel>
+
 </channels>
