@@ -48,7 +48,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS8[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/channels.m3u</externallink>
 </channel>
 
 </channels>
