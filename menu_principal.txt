@@ -12,7 +12,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/menu_sports.txt</externallink>
 </channel>
 
 <channel>
