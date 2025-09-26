@@ -5,44 +5,44 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS1[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/Sports-M3u-List-1-20-09-2025.m3u</externallink>
 </channel>
 
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS2[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/Sports-M3u-List-2-20-09-2025.m3u</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS3[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>#</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/Sports-M3u-List-3-20-09-2025.m3u</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPROTS4[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/Sports-M3u-List-4-20-09-2025.m3u</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS5[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/Sports-M3u-List-5-20-09-2025.m3u</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS6[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallinkhttps://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/Sports-M3u-List-6-20-09-2025.m3u</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS7[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/sports/Sports-M3u-List-7-20-09-2025.m3u</externallink>
 </channel>
 
 <channel>
