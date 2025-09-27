@@ -46,6 +46,12 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]PLUTOTVES[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/PlutoTV_tv_ES.m3u</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]WORLDWIDE[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/worldwide/worldwide.m3u8</externallink>
