@@ -1,23 +1,28 @@
 <layouttype>thumbnail</layouttype>
 
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Restless - Legendado (2025)[/COLOR][/B]</name>
-<thumbnail>https://redetorrent.com/poster/2025/09/restless-legendado-2025-filmes-4k.webp</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40B8FEED46F837FC00A32642360F1C831B85DB20&dn=HIDRATORRENTS.ORG..Restless.2025.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</externallink>
-</channel>
+<item>
+<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILME2[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</externallink>
-</channel>
+<item>
+<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILME3[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</externallink>
-</channel>
+<item>
+<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
 
 </channels>
