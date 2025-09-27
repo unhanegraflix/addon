@@ -17,11 +17,11 @@
 </item>
 
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<title>[B]Bambi - O Acerto de Contas - Legendado (2025)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1eb54396647c896b580b99ef5ebf17a969745&dn=HIDRATORRENTS.ORG..MKV.-LEGENDADO-..Bambi.The.Reckoning.2025.WEB-DL.EN.1080p.264.2.0-SF&xl=3759079552&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.yemekyedim.com%3A443%2Fannounce&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fanunciar&tr=udp%3A%2F%2Fp2p.publictracker.xyz%3A6969%2Fanunciar&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fanunciar&tr=https%3A%2F%2Ftrackers.mlsub.net%3A443%2Fannounce&tr=udp%3A%2F%2Fr.l5.ca%3A6969%2Fanunciar&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.vraphim.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fanunciar&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fu6.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce</link>
+<thumbnail>https://redetorrent.com/poster/2025/09/bambi-o-acerto-de-contas-legendado-2025-filmes-4k.webp</thumbnail>
 <fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<info>Sinopse: Depois que mãe e filho sofrem um acidente de carro, eles logo são caçados por Bambi, um cervo mutante e angustiado em uma fúria mortal em busca de vingança pela morte de sua mãe.</info>
 </item>
 
 <item>
