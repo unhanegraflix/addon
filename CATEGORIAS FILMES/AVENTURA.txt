@@ -2,12 +2,10 @@
 
 
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH
-</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<title>[B]Space Ranger - Legendado (2025)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC9D50A1643BA3BD55A4DB3E86B098C762B46D15&dn=HIDRATORRENTS.ORG..Space.Ranger.2024.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://redetorrent.com/poster/2025/09/space-ranger-legendado-2025-filmes-4k.webp</thumbnail>
+<info>Sinopse: Um grupo de Space Rangers deve proteger o universo da extinção.</info>
 </item>
 
 <item>
