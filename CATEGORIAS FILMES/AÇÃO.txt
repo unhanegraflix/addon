@@ -2,12 +2,10 @@
 
 
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH
-</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<title>[B]Primal Games - Legendado (2025)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
+<thumbnail>https://redetorrent.com/poster/2025/09/primal-games-legendado-2025-filmes-4k.webp</thumbnail>
+<info>Sinopse: Um casal de recém-casados ​​embarca na lua de mel de suas vidas, apenas para descobrir que são vítimas involuntárias de uma experiência de férias cruel e sádica.</info>
 </item>
 
 <item>
