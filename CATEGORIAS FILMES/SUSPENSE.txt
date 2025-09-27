@@ -2,12 +2,10 @@
 
 
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH
-</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<title>[B]Blindly in Love - Legendado (2025)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b940a8c8591fcecef27e9d5f7aeb43b8643737&dn=HIDRATORRENTS.ORG..Blindly.In.Love.2025.1080p.WEBRip.Legendado.mkv&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://redetorrent.com/poster/2025/09/blindly-in-love-legendado-2025-filmes-4k.webp</thumbnail>
+<info>Sinopse: Quando um jovem se apaixona perdidamente por uma mulher mais velha, atraente e casada, ele logo descobre que sua vida está se transformando em um ciclo caótico de traição, mentiras, assédio e assassinato.</info>
 </item>
 
 <item>
