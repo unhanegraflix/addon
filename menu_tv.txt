@@ -8,7 +8,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]M3UPT[A FUNCIONAR][/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]M3UPT[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/M3UPT.m3u</externallink>
 </channel>
