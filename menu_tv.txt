@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGAL2[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGAL2[A FUNCIONAR][/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/unhanegraflix/addon/refs/heads/main/portugal/PT-M3u-List-2-20-09-2025.m3u</externallink>
 </channel>
