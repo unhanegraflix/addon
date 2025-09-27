@@ -9,11 +9,10 @@
 </item>
 
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLOCA_AQUI_O_HASH</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<title>[B]Absolute Dominion - Legendado (2025)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8718de1e4a196174829849f603b8c32ad45c6877&dn=HIDRATORRENTS.ORG..Absolute.Dominion.2025.1080p.WEBRip.Legendado.mkv&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://redetorrent.com/poster/2025/09/absolute-dominion-legendado-2025-filmes-4k.webp</thumbnail>
+<info>Sinopse: Em 2063, em face de uma guerra santa global, os governos mundiais criam um torneio brutal de artes marciais para escolher um campeão cuja fé governará e trará a paz.</info>
 </item>
 
 <item>
